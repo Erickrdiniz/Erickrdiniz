@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Erickrdiniz
 - 👀 I’m interested in computers
 - 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on anything that I can Help!
+- 💞️ I’m looking to collaborate on anything that I can Help with!
 - 📫 How to reach me git=erickrdiniz
 
 <!---
